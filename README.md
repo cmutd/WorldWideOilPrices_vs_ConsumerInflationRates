@@ -1,12 +1,6 @@
 # ETL Project REPORT
 
----
 
-Author: Meng Chen, Yi Xiao, Mfon Udo-Imeh
-
-Date: 09/07/2019
-
----
 
 ## WORLDWIDE Oil Prices Vs Consumer Inflation Rates
 
